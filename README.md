@@ -6,6 +6,14 @@
 
 This project is designed to provide all resources to support in CICD processor.
 
+My resources list:
+
+- [docker](https://github.com/BigCat3997/azure-pipelines/blob/main/resources/docker)
+- [maven](https://github.com/BigCat3997/azure-pipelines/blob/main/resources/maven)
+- [nuget](https://github.com/BigCat3997/azure-pipelines/blob/main/resources/nuget)
+- [nginx](https://github.com/BigCat3997/azure-pipelines/blob/main/resources/nginx)
+- Continuously evaluate.
+
 ## Table of Contents
 
 - [Installation](#installation)
