@@ -8,10 +8,10 @@ This project is designed to provide all resources to support in CICD processor.
 
 My resources list:
 
-- [docker](https://github.com/BigCat3997/one-press-resources/blob/main/resources/docker)
-- [maven](https://github.com/BigCat3997/one-press-resources/blob/main/resources/maven)
-- [nuget](https://github.com/BigCat3997/one-press-resources/blob/main/resources/nuget)
-- [nginx](https://github.com/BigCat3997/one-press-resources/blob/main/resources/nginx)
+- [Docker](https://github.com/BigCat3997/one-press-resources/blob/main/resources/docker)
+- [Maven](https://github.com/BigCat3997/one-press-resources/blob/main/resources/maven)
+- [Nuget](https://github.com/BigCat3997/one-press-resources/blob/main/resources/nuget)
+- [Nginx](https://github.com/BigCat3997/one-press-resources/blob/main/resources/nginx)
 - Continuously evaluate.
 
 ## Table of Contents
